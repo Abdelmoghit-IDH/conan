@@ -1,6 +1,6 @@
 # conan
 
-## Second porojet CIT mobile : Conan
+## Second projet CIT mobile : Conan
 
 This project is a starting point for a Flutter application.
 
