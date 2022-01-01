@@ -1,8 +1,6 @@
 # conan
 
-A new Flutter project.
-
-## Getting Started
+## Second porojet CIT mobile : Conan
 
 This project is a starting point for a Flutter application.
 
